@@ -18,13 +18,13 @@ Si en amoureux du "jargon crypto" ou de la langue française vous souhaitez nous
 | epoch | époque |
 | ledger | registre |
 | liverness | instantanéité (caractère temps réel)|
-| "nothing at stake" attack | 
+| "nothing at stake" attack | attaque "rien à perdre" |  
 | proof of stake | preuve d'enjeu |
 | round | tour |
 | scalabilty | scalabilté |
 | scalable | scalable |
-| shard | fragment | attaque "rien à perdre" | 
-| sharding de ... | partage de ... |
+| shard | fragment | 
+| sharding of ... | partage de ... |
 | sharding | partitionnement horizontal |
 | smart contract | contrat intelligent | 
 | secured proof of stake | consensus à preuve d'enjeu sécurisée |
