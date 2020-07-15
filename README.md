@@ -12,9 +12,9 @@ Si en amoureux du "jargon crypto" ou de la langue française vous souhaitez nous
 
 | EN | FR | 
 |----|----|
-| adaptive state sharding | partage d'état adaptatif |
-| blockchain | chaîne de bloc |
+| adaptive state sharding | partage d'états adaptatif |
 | block proposer | promoteur de bloc |
+| blockchain | chaîne de bloc |
 | epoch | époque |
 | ledger | registre |
 | liverness | instantanéité (caractère temps réel)|
@@ -23,13 +23,15 @@ Si en amoureux du "jargon crypto" ou de la langue française vous souhaitez nous
 | round | tour |
 | scalabilty | scalabilté |
 | scalable | scalable |
+| secured proof of stake | consensus à preuve d'enjeu sécurisée |
 | shard | fragment | 
 | sharding of ... | partage de ... |
 | sharding | partitionnement horizontal |
 | smart contract | contrat intelligent | 
-| secured proof of stake | consensus à preuve d'enjeu sécurisée |
 | stake | enjeu |
 
+
+> Dans le partage d'états adaptatif on **accorde le partage** et non les états. C'est en effet le "*sharding*" qui s'adapte.
 > Nous avons convenu que **sharding** *tout seul* et **sharding de ...** ne pouvait pas avoir la même traduction.
 
 
